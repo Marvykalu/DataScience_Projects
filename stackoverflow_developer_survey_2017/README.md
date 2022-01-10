@@ -18,6 +18,7 @@ To deploy this project on your machine, the source_file folder contains the foll
 - survey-result-schema.csv
 - Exploratory_Data_Analysis_File.ipynb
 
+You will need a basic skill of doing data analysis with python.
 ### Acknowledgement
 
 - Thank you Udacity Data Science Team.
