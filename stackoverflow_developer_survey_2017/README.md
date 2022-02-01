@@ -17,6 +17,7 @@ To deploy this project on your machine, the source_file folder contains the foll
 - survey-results-public.csv
 - survey-result-schema.csv
 - Exploratory_Data_Analysis_File.ipynb
+- Inferential_Statistics.ipynb
 
 You will need a basic skill of doing data analysis with python.
 ### Acknowledgement
