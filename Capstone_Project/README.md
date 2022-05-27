@@ -4,6 +4,9 @@ This blog post summarizes my work on the final capstone project for the Udacity 
 I analyzed demographic data for customers of a mail-order sales company (Bertelsmann Arvato Analytics) in Germany, comparing it against demographic information for the general population in Germany.
 The aim is to find which individuals in the general population are most likely to convert into becoming customers for the company.
 
+See link to my blog post below for summary of this project
+https://medium.com/@marvykalu/customer-segmentation-analysis-b122797d1679
+
 ## Data
 There are four (4) csv files in total:
 
